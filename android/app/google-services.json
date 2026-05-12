@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909564173597",
+    "project_id": "carbonpulse-a27ab",
+    "storage_bucket": "carbonpulse-a27ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909564173597:android:941dda6695a06bdd0995f4",
+        "android_client_info": {
+          "package_name": "com.example.carbonpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRLB2vMtHDEPuflGavj9BY4lxhDX4x3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
